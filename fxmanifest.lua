@@ -41,6 +41,7 @@ client_scripts {
 }
 
 server_scripts {
+    'resource/dashy_security/server.lua',
     'imports/callback/server.lua',
     'imports/hook/shared.lua',
     'imports/registerHook/shared.lua',
