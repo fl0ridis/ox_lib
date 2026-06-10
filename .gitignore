@@ -12,3 +12,7 @@ pnpm-debug.log*
 /web/node_modules
 /web/build
 /package/dist
+
+# Local utility scripts
+sync_upstream.ps1
+
